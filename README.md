@@ -1,6 +1,6 @@
-#  Insertion-Sort-Projesi 
+#  Insertion-Sort-Projesi (www.patika.dev)  
 
-[22,27,16,2,18,6] -> Insertion Sort
+ [22,27,16,2,18,6] -> Insertion Sort
 
 ## 1) Insertion Sort'a göre aşamaları
 
